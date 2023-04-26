@@ -1,0 +1,7 @@
+{
+  "name": "armazenamentohenr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
